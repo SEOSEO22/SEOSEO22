@@ -11,12 +11,12 @@
   <br>
   <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEOSEO22&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEOSEO22&layout=compact&count_private=true)
 
 ![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seoyeon0833)
 
-![SEOSEO22's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEOSEO22&hide=stars,prs&show_icons=true&theme=nightowl&count_private=true)
+!![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEOSEO22&count_private=true&show_icons=true&theme=nightowl&hide=stars,prs)
 
 </div>
 
