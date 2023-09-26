@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=SEOSEO22&fontSize=90&animation=twinkling&fontAlignY=38&desc=GitHub%20For%20Recording%20Activities&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=SEOSEO&fontSize=90&animation=twinkling&fontAlignY=38&desc=GitHub%20For%20Recording%20Activities&descAlignY=51&descAlign=62)
 ####  :wave: Welcome my github profile !
 
   <br>
