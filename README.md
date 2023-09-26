@@ -5,18 +5,15 @@
 
   <br>
   <br>
-  
-####  :pencil2: Study log
-
   <br>
   <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEOSEO22&layout=compact&count_private=true)
 
-![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seoyeon0833)
+![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seoyeon0833) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEOSEO22&layout=compact&count_private=true)
 
-!![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEOSEO22&count_private=true&show_icons=true&theme=nightowl&hide=stars,prs)
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEOSEO22&count_private=true&show_icons=true&theme=nightowl&hide=stars,prs)
 
 </div>
 
