@@ -9,11 +9,12 @@
   <br>
 
 
-![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seoyeon0833) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEOSEO22&layout=compact&count_private=true)
-
+![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seoyeon0833)
+<br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEOSEO22&count_private=true&show_icons=true&theme=nightowl&hide=stars,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEOSEO22&layout=compact&count_private=true&theme=nightowl)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEOSEO22&count_private=true&show_icons=true&theme=nightowl&hide=stars)
 
 </div>
 
