@@ -13,7 +13,7 @@
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEOSEO22&layout=compact&count_private=true&theme=nightowl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEOSEO22&layout=compact&count_private=true&theme=nightowl&count_private=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEOSEO22&count_private=true&show_icons=true&theme=nightowl&hide=stars)
 
 </div>
