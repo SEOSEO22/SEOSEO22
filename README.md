@@ -13,12 +13,12 @@
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEOSEO22&layout=compact&count_private=true&theme=nightowl&count_private=true)
-<br>
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEOSEO22&count_private=true&show_icons=true&theme=nightowl&hide=stars)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEOSEO22&layout=compact&count_private=true&theme=dracula&count_private=true"/>
+  <br>
+  <img src="https://streak-stats.demolab.com?user=SEOSEO22&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"/>
+  <br>
+  <img src = "https://github-readme-stats.vercel.app/api?username=SEOSEO22&count_private=true&show_icons=true&theme=dracula&hide=stars"/>
 </div>
 
 
